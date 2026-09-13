@@ -19,8 +19,10 @@ The dashboard was developed in Microsoft Excel using data cleaning, formulas, Pi
 * The **United States generated the highest revenue** among the countries analyzed, followed by **Germany, the United Kingdom, and France**.
 
 * **California generated the highest revenue** among the top five states shown, followed by **England, Washington, Oregon, and Saarland**.
+  
+* Profit was negative from January to June 2015, with the lowest monthly profit occurring in June 2015 at -$8,691. Profit turned positive in July 2015, indicating an improvement in profitability after the first six months.
 
-* **June 2016 recorded the highest revenue**, while **January 2015 recorded the lowest revenue** during the period analyzed.
+* **June 2016 recorded the highest revenue**, while **January 2015 recorded the lowest revenue** 
 
 ## Tools & Skills
 
